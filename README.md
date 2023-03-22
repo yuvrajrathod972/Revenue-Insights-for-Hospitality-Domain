@@ -18,7 +18,4 @@ Generate pertinent insights that aren't offered by the metric list and which mig
 
 ![3](https://user-images.githubusercontent.com/107427120/226969662-2679b058-e892-4079-9c19-5018c0d77f8e.PNG)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
